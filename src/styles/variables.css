@@ -1,0 +1,11 @@
+:root {
+  --primary-color: #272727;
+  --second-color: #F9F9F9;
+  --third-color: #797979;
+
+  --font-base: 16px;
+  --font-lg: 18px;
+  --font-xl: 28px;
+  --font-xl-5: 32px;
+  --font-2xl: 40px;
+}
